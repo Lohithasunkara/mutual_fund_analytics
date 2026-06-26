@@ -30,11 +30,11 @@ df = df.drop_duplicates(subset=["amfi_code", "date"])
 # 5. Validate NAV > 0
 invalid = df[df["nav"] <= 0]
 if not invalid.empty:
-    print(f"⚠️ {len(invalid)} invalid rows dropped")
+    print(f" {len(invalid)} invalid rows dropped")
 df = df[df["nav"] > 0]
 
 # 6. Save
 df = df.sort_values(["amfi_code", "date"]).reset_index(drop=True)
 df.to_csv("data/processed/nav_history_clean.csv", index=False)
 print("Shape after cleaning:", df.shape)
-print("✅ Saved to data/processed/nav_history_clean.csv")
+print(" Saved to data/processed/nav_history_clean.csv")
