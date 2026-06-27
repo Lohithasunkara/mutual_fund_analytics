@@ -1,0 +1,385 @@
+Month,Category,Net_Inflow_Cr
+Jan-2022,Large Cap,-1351.6
+Jan-2022,Mid Cap,2164.1
+Jan-2022,Small Cap,5215.6
+Jan-2022,ELSS,1221.4
+Jan-2022,Debt,3740.9
+Jan-2022,Hybrid,5851.0
+Jan-2022,Index,-1716.3
+Jan-2022,Sectoral,6788.7
+Feb-2022,Large Cap,7541.2
+Feb-2022,Mid Cap,354.3
+Feb-2022,Small Cap,1015.5
+Feb-2022,ELSS,-1136.2
+Feb-2022,Debt,7049.9
+Feb-2022,Hybrid,528.4
+Feb-2022,Index,6929.6
+Feb-2022,Sectoral,4635.7
+Mar-2022,Large Cap,122.1
+Mar-2022,Mid Cap,-1438.7
+Mar-2022,Small Cap,-1573.5
+Mar-2022,ELSS,3086.6
+Mar-2022,Debt,4398.8
+Mar-2022,Hybrid,2466.6
+Mar-2022,Index,5555.7
+Mar-2022,Sectoral,5887.0
+Apr-2022,Large Cap,-1440.0
+Apr-2022,Mid Cap,341.3
+Apr-2022,Small Cap,6415.2
+Apr-2022,ELSS,5653.2
+Apr-2022,Debt,2884.8
+Apr-2022,Hybrid,3423.1
+Apr-2022,Index,6218.8
+Apr-2022,Sectoral,-1493.2
+May-2022,Large Cap,1402.8
+May-2022,Mid Cap,3254.3
+May-2022,Small Cap,7311.0
+May-2022,ELSS,2326.9
+May-2022,Debt,7283.1
+May-2022,Hybrid,624.8
+May-2022,Index,2339.1
+May-2022,Sectoral,7745.8
+Jun-2022,Large Cap,3516.8
+Jun-2022,Mid Cap,-1638.8
+Jun-2022,Small Cap,1270.1
+Jun-2022,ELSS,4032.4
+Jun-2022,Debt,711.5
+Jun-2022,Hybrid,7162.4
+Jun-2022,Index,697.8
+Jun-2022,Sectoral,484.6
+Jul-2022,Large Cap,-266.3
+Jul-2022,Mid Cap,-1111.1
+Jul-2022,Small Cap,7493.2
+Jul-2022,ELSS,2890.0
+Jul-2022,Debt,922.0
+Jul-2022,Hybrid,3834.4
+Jul-2022,Index,1099.6
+Jul-2022,Sectoral,-43.8
+Aug-2022,Large Cap,-1424.6
+Aug-2022,Mid Cap,-1363.8
+Aug-2022,Small Cap,-1968.6
+Aug-2022,ELSS,6940.3
+Aug-2022,Debt,2080.2
+Aug-2022,Hybrid,609.2
+Aug-2022,Index,4468.4
+Aug-2022,Sectoral,764.0
+Sep-2022,Large Cap,1038.9
+Sep-2022,Mid Cap,-969.5
+Sep-2022,Small Cap,-1655.7
+Sep-2022,ELSS,2665.2
+Sep-2022,Debt,7395.0
+Sep-2022,Hybrid,-729.5
+Sep-2022,Index,-1530.0
+Sep-2022,Sectoral,-1244.4
+Oct-2022,Large Cap,2217.7
+Oct-2022,Mid Cap,-769.3
+Oct-2022,Small Cap,1251.3
+Oct-2022,ELSS,6938.6
+Oct-2022,Debt,5333.7
+Oct-2022,Hybrid,7953.5
+Oct-2022,Index,4958.1
+Oct-2022,Sectoral,7335.6
+Nov-2022,Large Cap,5022.0
+Nov-2022,Mid Cap,6089.1
+Nov-2022,Small Cap,179.0
+Nov-2022,ELSS,6578.6
+Nov-2022,Debt,772.0
+Nov-2022,Hybrid,6447.5
+Nov-2022,Index,7793.3
+Nov-2022,Sectoral,7682.9
+Dec-2022,Large Cap,3023.0
+Dec-2022,Mid Cap,5933.5
+Dec-2022,Small Cap,-1881.0
+Dec-2022,ELSS,1222.3
+Dec-2022,Debt,6751.3
+Dec-2022,Hybrid,7146.2
+Dec-2022,Index,-405.6
+Dec-2022,Sectoral,-1930.7
+Jan-2023,Large Cap,7538.4
+Jan-2023,Mid Cap,-1153.0
+Jan-2023,Small Cap,5546.0
+Jan-2023,ELSS,1613.7
+Jan-2023,Debt,6994.8
+Jan-2023,Hybrid,5144.0
+Jan-2023,Index,-343.2
+Jan-2023,Sectoral,7196.0
+Feb-2023,Large Cap,7116.0
+Feb-2023,Mid Cap,4893.4
+Feb-2023,Small Cap,3141.0
+Feb-2023,ELSS,-1816.7
+Feb-2023,Debt,5549.9
+Feb-2023,Hybrid,46.6
+Feb-2023,Index,7477.9
+Feb-2023,Sectoral,3512.3
+Mar-2023,Large Cap,-1941.3
+Mar-2023,Mid Cap,5793.1
+Mar-2023,Small Cap,3789.2
+Mar-2023,ELSS,1115.2
+Mar-2023,Debt,499.5
+Mar-2023,Hybrid,7210.1
+Mar-2023,Index,-1808.5
+Mar-2023,Sectoral,1568.6
+Apr-2023,Large Cap,3318.7
+Apr-2023,Mid Cap,1090.9
+Apr-2023,Small Cap,2009.3
+Apr-2023,ELSS,1350.9
+Apr-2023,Debt,3173.0
+Apr-2023,Hybrid,-802.3
+Apr-2023,Index,2082.4
+Apr-2023,Sectoral,-361.8
+May-2023,Large Cap,4840.6
+May-2023,Mid Cap,3462.9
+May-2023,Small Cap,2313.0
+May-2023,ELSS,2344.2
+May-2023,Debt,4746.8
+May-2023,Hybrid,2499.2
+May-2023,Index,7371.3
+May-2023,Sectoral,-1878.3
+Jun-2023,Large Cap,1993.5
+Jun-2023,Mid Cap,7160.6
+Jun-2023,Small Cap,-97.9
+Jun-2023,ELSS,7350.8
+Jun-2023,Debt,7278.1
+Jun-2023,Hybrid,5407.3
+Jun-2023,Index,1329.6
+Jun-2023,Sectoral,7271.7
+Jul-2023,Large Cap,5920.7
+Jul-2023,Mid Cap,7249.0
+Jul-2023,Small Cap,-1852.4
+Jul-2023,ELSS,1073.1
+Jul-2023,Debt,-624.9
+Jul-2023,Hybrid,5670.2
+Jul-2023,Index,-717.4
+Jul-2023,Sectoral,394.4
+Aug-2023,Large Cap,890.4
+Aug-2023,Mid Cap,6505.6
+Aug-2023,Small Cap,4598.4
+Aug-2023,ELSS,2811.5
+Aug-2023,Debt,5991.6
+Aug-2023,Hybrid,4626.4
+Aug-2023,Index,7807.7
+Aug-2023,Sectoral,5851.8
+Sep-2023,Large Cap,3652.8
+Sep-2023,Mid Cap,3402.5
+Sep-2023,Small Cap,-12.4
+Sep-2023,ELSS,4057.9
+Sep-2023,Debt,5818.3
+Sep-2023,Hybrid,3137.0
+Sep-2023,Index,1683.4
+Sep-2023,Sectoral,3330.3
+Oct-2023,Large Cap,4025.6
+Oct-2023,Mid Cap,-1485.8
+Oct-2023,Small Cap,7390.8
+Oct-2023,ELSS,1811.6
+Oct-2023,Debt,-1956.1
+Oct-2023,Hybrid,7212.1
+Oct-2023,Index,771.5
+Oct-2023,Sectoral,7134.3
+Nov-2023,Large Cap,7452.3
+Nov-2023,Mid Cap,3635.8
+Nov-2023,Small Cap,2909.0
+Nov-2023,ELSS,1364.0
+Nov-2023,Debt,4960.8
+Nov-2023,Hybrid,4325.0
+Nov-2023,Index,705.3
+Nov-2023,Sectoral,1518.9
+Dec-2023,Large Cap,2615.6
+Dec-2023,Mid Cap,36.2
+Dec-2023,Small Cap,-1117.4
+Dec-2023,ELSS,158.8
+Dec-2023,Debt,5441.8
+Dec-2023,Hybrid,328.7
+Dec-2023,Index,6988.2
+Dec-2023,Sectoral,6686.1
+Jan-2024,Large Cap,4424.9
+Jan-2024,Mid Cap,85.1
+Jan-2024,Small Cap,6212.5
+Jan-2024,ELSS,3491.0
+Jan-2024,Debt,7819.7
+Jan-2024,Hybrid,-435.1
+Jan-2024,Index,6665.7
+Jan-2024,Sectoral,1520.7
+Feb-2024,Large Cap,-724.8
+Feb-2024,Mid Cap,6602.9
+Feb-2024,Small Cap,823.6
+Feb-2024,ELSS,1185.0
+Feb-2024,Debt,3446.4
+Feb-2024,Hybrid,-675.0
+Feb-2024,Index,7730.8
+Feb-2024,Sectoral,5809.3
+Mar-2024,Large Cap,5913.3
+Mar-2024,Mid Cap,5936.7
+Mar-2024,Small Cap,3167.0
+Mar-2024,ELSS,2662.0
+Mar-2024,Debt,633.7
+Mar-2024,Hybrid,5102.0
+Mar-2024,Index,4782.2
+Mar-2024,Sectoral,3543.6
+Apr-2024,Large Cap,1151.4
+Apr-2024,Mid Cap,5968.3
+Apr-2024,Small Cap,6994.2
+Apr-2024,ELSS,5603.4
+Apr-2024,Debt,4532.8
+Apr-2024,Hybrid,3468.6
+Apr-2024,Index,4163.0
+Apr-2024,Sectoral,7764.3
+May-2024,Large Cap,5650.8
+May-2024,Mid Cap,2943.0
+May-2024,Small Cap,-438.3
+May-2024,ELSS,3875.1
+May-2024,Debt,5421.7
+May-2024,Hybrid,7193.4
+May-2024,Index,924.6
+May-2024,Sectoral,-1755.3
+Jun-2024,Large Cap,4950.1
+Jun-2024,Mid Cap,2520.2
+Jun-2024,Small Cap,2243.8
+Jun-2024,ELSS,3198.5
+Jun-2024,Debt,6422.1
+Jun-2024,Hybrid,-1850.0
+Jun-2024,Index,4247.9
+Jun-2024,Sectoral,805.3
+Jul-2024,Large Cap,7849.2
+Jul-2024,Mid Cap,7257.7
+Jul-2024,Small Cap,4612.9
+Jul-2024,ELSS,613.6
+Jul-2024,Debt,2077.8
+Jul-2024,Hybrid,4115.2
+Jul-2024,Index,-170.9
+Jul-2024,Sectoral,-189.3
+Aug-2024,Large Cap,-1556.0
+Aug-2024,Mid Cap,5813.1
+Aug-2024,Small Cap,6175.3
+Aug-2024,ELSS,7138.5
+Aug-2024,Debt,999.0
+Aug-2024,Hybrid,2237.7
+Aug-2024,Index,-1386.0
+Aug-2024,Sectoral,3987.5
+Sep-2024,Large Cap,2867.8
+Sep-2024,Mid Cap,6414.5
+Sep-2024,Small Cap,7253.2
+Sep-2024,ELSS,5314.6
+Sep-2024,Debt,266.9
+Sep-2024,Hybrid,-1386.2
+Sep-2024,Index,-1237.8
+Sep-2024,Sectoral,6827.4
+Oct-2024,Large Cap,5785.4
+Oct-2024,Mid Cap,887.9
+Oct-2024,Small Cap,965.7
+Oct-2024,ELSS,3237.5
+Oct-2024,Debt,6400.8
+Oct-2024,Hybrid,2585.6
+Oct-2024,Index,7040.5
+Oct-2024,Sectoral,5711.2
+Nov-2024,Large Cap,2450.9
+Nov-2024,Mid Cap,-699.2
+Nov-2024,Small Cap,7519.9
+Nov-2024,ELSS,6134.7
+Nov-2024,Debt,6502.7
+Nov-2024,Hybrid,-1728.8
+Nov-2024,Index,2458.9
+Nov-2024,Sectoral,4531.2
+Dec-2024,Large Cap,881.1
+Dec-2024,Mid Cap,-898.3
+Dec-2024,Small Cap,-1436.9
+Dec-2024,ELSS,1332.8
+Dec-2024,Debt,5248.1
+Dec-2024,Hybrid,6122.3
+Dec-2024,Index,7636.2
+Dec-2024,Sectoral,6993.7
+Jan-2025,Large Cap,7572.6
+Jan-2025,Mid Cap,5329.4
+Jan-2025,Small Cap,6960.1
+Jan-2025,ELSS,6914.3
+Jan-2025,Debt,2127.4
+Jan-2025,Hybrid,1428.7
+Jan-2025,Index,6976.2
+Jan-2025,Sectoral,4857.6
+Feb-2025,Large Cap,2196.7
+Feb-2025,Mid Cap,6259.3
+Feb-2025,Small Cap,3615.4
+Feb-2025,ELSS,-1919.9
+Feb-2025,Debt,4547.0
+Feb-2025,Hybrid,4755.0
+Feb-2025,Index,2835.8
+Feb-2025,Sectoral,6564.5
+Mar-2025,Large Cap,2841.5
+Mar-2025,Mid Cap,6962.2
+Mar-2025,Small Cap,4752.8
+Mar-2025,ELSS,4641.7
+Mar-2025,Debt,-182.4
+Mar-2025,Hybrid,413.8
+Mar-2025,Index,1817.8
+Mar-2025,Sectoral,6894.3
+Apr-2025,Large Cap,-1191.9
+Apr-2025,Mid Cap,6805.7
+Apr-2025,Small Cap,7060.6
+Apr-2025,ELSS,-1642.5
+Apr-2025,Debt,-414.4
+Apr-2025,Hybrid,7853.7
+Apr-2025,Index,255.5
+Apr-2025,Sectoral,6790.9
+May-2025,Large Cap,4753.0
+May-2025,Mid Cap,-1328.1
+May-2025,Small Cap,3254.4
+May-2025,ELSS,1943.7
+May-2025,Debt,6668.9
+May-2025,Hybrid,4597.1
+May-2025,Index,6580.8
+May-2025,Sectoral,2023.2
+Jun-2025,Large Cap,3027.8
+Jun-2025,Mid Cap,1311.8
+Jun-2025,Small Cap,4986.5
+Jun-2025,ELSS,-762.1
+Jun-2025,Debt,6734.2
+Jun-2025,Hybrid,7129.0
+Jun-2025,Index,5877.7
+Jun-2025,Sectoral,3250.4
+Jul-2025,Large Cap,6289.5
+Jul-2025,Mid Cap,6286.9
+Jul-2025,Small Cap,2377.3
+Jul-2025,ELSS,5351.6
+Jul-2025,Debt,2209.8
+Jul-2025,Hybrid,3547.4
+Jul-2025,Index,3266.7
+Jul-2025,Sectoral,7524.3
+Aug-2025,Large Cap,-93.3
+Aug-2025,Mid Cap,1031.0
+Aug-2025,Small Cap,3149.5
+Aug-2025,ELSS,2166.3
+Aug-2025,Debt,5770.6
+Aug-2025,Hybrid,5814.3
+Aug-2025,Index,3269.3
+Aug-2025,Sectoral,3152.1
+Sep-2025,Large Cap,3242.5
+Sep-2025,Mid Cap,-907.2
+Sep-2025,Small Cap,769.9
+Sep-2025,ELSS,3364.8
+Sep-2025,Debt,1324.9
+Sep-2025,Hybrid,1984.3
+Sep-2025,Index,-723.7
+Sep-2025,Sectoral,7371.0
+Oct-2025,Large Cap,3170.6
+Oct-2025,Mid Cap,1522.1
+Oct-2025,Small Cap,6317.0
+Oct-2025,ELSS,-1077.5
+Oct-2025,Debt,3457.4
+Oct-2025,Hybrid,-258.0
+Oct-2025,Index,-1405.5
+Oct-2025,Sectoral,4655.3
+Nov-2025,Large Cap,1270.1
+Nov-2025,Mid Cap,3215.3
+Nov-2025,Small Cap,2940.4
+Nov-2025,ELSS,1572.2
+Nov-2025,Debt,1119.5
+Nov-2025,Hybrid,2020.8
+Nov-2025,Index,-457.9
+Nov-2025,Sectoral,7144.9
+Dec-2025,Large Cap,5695.6
+Dec-2025,Mid Cap,5235.7
+Dec-2025,Small Cap,-1048.4
+Dec-2025,ELSS,6824.4
+Dec-2025,Debt,6162.7
+Dec-2025,Hybrid,-1452.4
+Dec-2025,Index,-943.2
+Dec-2025,Sectoral,-1159.9
